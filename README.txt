@@ -1,3 +1,9 @@
+=============================
+Deploy to local (Django) PyPI
+=============================
+
+python setup.py register -r local sdist upload -r local
+
 ==========================
 MySQL Connector/Python 2.0
 ==========================
