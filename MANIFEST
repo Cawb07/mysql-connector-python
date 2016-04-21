@@ -3,6 +3,8 @@ README
 metasetupinfo.py
 setup.cfg
 setup.py
+unittests.py
+version.py
 python2/mysql/__init__.py
 python2/mysql/connector/__init__.py
 python2/mysql/connector/charsets.py

@@ -1,1 +1,1 @@
-include metasetupinfo.py
+include *.py
